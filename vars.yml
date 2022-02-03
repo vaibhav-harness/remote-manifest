@@ -1,0 +1,3 @@
+APP_NAME: ${secrets.getValue("tanzu-appname")}
+APP_MEMORY: ${workflow.variables.appMemory}
+INSTANCES: ${serviceVariable.numInstances}

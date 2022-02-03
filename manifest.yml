@@ -1,0 +1,5 @@
+applications:
+- name: ((APP_NAME))
+  memory: ((APP_MEMORY))
+  instances : ((INSTANCES))
+  random-route: true
