@@ -1,0 +1,5 @@
+applications:
+- name: manifest-stg
+  memory: 700M
+  instances : 1
+  random-route: true
