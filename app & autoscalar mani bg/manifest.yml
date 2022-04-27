@@ -1,5 +1,5 @@
 applications:
-- name: test-app
+- name: bg-app
   memory: 500M
   instances : 1
   random-route: false
