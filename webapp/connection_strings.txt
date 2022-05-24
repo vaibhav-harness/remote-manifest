@@ -1,0 +1,8 @@
+[
+  {
+    "name": "sqlserver_conn_False",
+    "value": "jdbc:sqlserver://localhost:1433;databaseName=TEST-New",
+    "type": "SQLServer",
+    "slotSetting": true
+  }
+]
