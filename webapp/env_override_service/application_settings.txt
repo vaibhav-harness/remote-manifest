@@ -1,0 +1,12 @@
+[
+  {
+    "name": "k3_False",
+    "value": "v3_service",
+    "slotSetting": false
+  },
+  {
+    "name": "loglevel_False",
+    "value": "INFO_service",
+    "slotSetting": true
+  }
+]
